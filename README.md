@@ -67,6 +67,7 @@
 ### Blocking, Candidate Selection, and Search
 
 - [blocking](https://github.com/ncn-foreigners/blocking) (R) - Blocking based on approximate nearest neighbours.
+- [BlockingPy)(https://github.com/ncn-foreigners/BlockingPy) (Python) -- Blocking based on approximate nearest neighbours.
 - [ElasticSearch](https://github.com/elastic/elasticsearch) - Search text.
 - [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 - [StarSpace](https://github.com/facebookresearch/StarSpace) (C++, Python) - Embedding model suitable for similarity learning.
