@@ -42,6 +42,7 @@
 - [SecondString](https://secondstring.sourceforge.net/) (Java) - Java implementation of string comparison functions.
 - [StringCompare](https://github.com/OlivierBinette/StringCompare) (Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.
 - [Comparator](https://github.com/ngmarchant/comparator) (R, C++) - Efficient string comparison functions in R.
+- [RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) (Python, C++, Rust) - Very fast string comparisons with algorithmic optimizations, along with speed benchmarks.
 
 
 ### Embeddings (for pairwise comparison)
@@ -67,9 +68,9 @@
 ### Blocking, Candidate Selection, and Search
 
 - [blocking](https://github.com/ncn-foreigners/blocking) (R) - Blocking based on approximate nearest neighbours.
-- [BlockingPy)(https://github.com/ncn-foreigners/BlockingPy) (Python) -- Blocking based on approximate nearest neighbours.
+- [BlockingPy](https://github.com/ncn-foreigners/BlockingPy) (Python) -- Blocking based on approximate nearest neighbours.
 - [ElasticSearch](https://github.com/elastic/elasticsearch) - Search text.
-- [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
+- [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) (Python) - Deep embedding and approximate nearest-neighbor blocking for entity resolution.
 - [StarSpace](https://github.com/facebookresearch/StarSpace) (C++, Python) - Embedding model suitable for similarity learning.
 
 ## Commercial Solutions
