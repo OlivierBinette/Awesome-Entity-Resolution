@@ -28,6 +28,7 @@
 - [dblink](https://github.com/cleanzr/dblink) (R, Spark) - Scalable Bayesian graphical entity resolution.
 - [exchanger](https://github.com/cleanzr/exchanger) (R, C++) - More flexible Bayesian graphical entity resolution on your laptop.
 - [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais) (R, SQL, Java) - Record linkage software used at the Italian National Statistics Institute.
+- [everyrow](https://github.com/futuresearch/everyrow-sdk) - Python SDK for AI-powered entity resolution. Uses LLM agents for semantic deduplication, blocking, and record linkage. Understands that "AbbVie Inc" = "Abbvie" = "AbbVie Pharmaceutical".
 
 ### Evaluation
 
