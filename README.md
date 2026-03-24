@@ -28,6 +28,7 @@
 - [dblink](https://github.com/cleanzr/dblink) (R, Spark) - Scalable Bayesian graphical entity resolution.
 - [exchanger](https://github.com/cleanzr/exchanger) (R, C++) - More flexible Bayesian graphical entity resolution on your laptop.
 - [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais) (R, SQL, Java) - Record linkage software used at the Italian National Statistics Institute.
+- [MatchFlow](https://github.com/madmatcher/matchflow) (Spark, Python) - Library for composing entity matching workflows.
 
 ### Evaluation
 
@@ -71,6 +72,7 @@
 - [ElasticSearch](https://github.com/elastic/elasticsearch) - Search text.
 - [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 - [StarSpace](https://github.com/facebookresearch/StarSpace) (C++, Python) - Embedding model suitable for similarity learning.
+- [Delex](https://github.com/anhaidgroup/delex) (Spark, Python) - Open-source tool for blocking rules.
 
 ## Commercial Solutions
 
@@ -86,6 +88,7 @@
 - [Google Cloud Entity Reconciliation](https://cloud.google.com/enterprise-knowledge-graph) - Part of Enterprise Knowledge Graph.
 - [Syntini Data Matching](https://www.syniti.com/solutions/data-matching/)
 - [Amperity](https://amperity.com/)
+- [MadMatcher](madmatcher.ai)
 
 
 ## Books
