@@ -22,7 +22,7 @@
 - [Zingg](https://github.com/zinggAI/zingg) (Python, Java) - Scalable, active learning model for entity resolution.
 - [dedupe](https://github.com/dedupeio/dedupe) (Python) - Active learning and flexible Python tooling for entity resolution. 
 - [PyJedAI](https://github.com/AI-team-UoA/pyJedAI) (Python, Java) - State-of-the-art entity resolution clustering algorithms.
-- [DeepMatcher](RecordLinkage) (Python) - Deep learning-based entity ersolution
+- [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) (Python) - Deep learning-based entity ersolution
 - [FastLink](https://github.com/kosukeimai/fastLink) (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
 - [RecordLinkage](https://github.com/J535D165/recordlinkage) (Python) - Toolkit for prototyping entity resolution systems.
 - [dblink](https://github.com/cleanzr/dblink) (R, Spark) - Scalable Bayesian graphical entity resolution.
