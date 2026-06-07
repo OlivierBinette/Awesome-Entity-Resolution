@@ -29,6 +29,8 @@
 - [exchanger](https://github.com/cleanzr/exchanger) (R, C++) - More flexible Bayesian graphical entity resolution on your laptop.
 - [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais) (R, SQL, Java) - Record linkage software used at the Italian National Statistics Institute.
 - [MatchFlow](https://github.com/madmatcher/matchflow) (Spark, Python) - Library for composing entity matching workflows.
+- [goldenmatch](<https://github.com/benseverndev-oss/goldenmatch>) - Deduplicate and resolve entities in CSV and Parquet files into golden records.
+
 
 ### Evaluation
 
