@@ -75,7 +75,7 @@
 - [Delex](https://github.com/anhaidgroup/delex) (Spark, Python) - Open-source tool for blocking rules.
 
 ## Commercial Solutions
-
+- [Zingg](https://www.zingg.ai) - Streaming and batch warehouse native entity resolution platform 
 - [Automated Data Inc](https://www.automated-data.io/) - AI driven, low-code.
 - [Tilores](https://tilores.io/) - Flexible entity resolution platform.
 - [Senzing](https://senzing.com/) - Pre-configured entity resolution and entity management for people and organizations.
