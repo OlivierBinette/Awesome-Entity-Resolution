@@ -89,6 +89,7 @@
 - [Syntini Data Matching](https://www.syniti.com/solutions/data-matching/)
 - [Amperity](https://amperity.com/)
 - [MadMatcher](madmatcher.ai)
+- [Samesake](https://samesake.co.uk/) - Matches customer records across systems, supports human review of uncertain matches, and maintains a shared person ID for downstream applications.
 
 
 ## Books
